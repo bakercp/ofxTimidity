@@ -1,6 +1,7 @@
 #pragma once
 
 
+#include "ofMain.h"
 #include "Poco/Pipe.h"
 #include "Poco/Process.h"
 #include "Poco/NullStream.h"
